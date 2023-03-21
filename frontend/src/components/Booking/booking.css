@@ -1,0 +1,33 @@
+.booking {
+  padding: 2rem;
+  border-radius: 0.5rem;
+  border: 1px solid;
+  position: sticky;
+  top: 80px;
+}
+
+.booking-top h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.booking-top h3 span {
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--text-color);
+}
+
+.booking-top span {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.booking-top span i {
+  color: var(--secondary-color);
+}
+
+.booking-top {
+  padding-top: 2rem;
+  border-bottom: 1px solid rgba(229, 231, 235);
+}
